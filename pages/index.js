@@ -5,6 +5,7 @@ function Home(){
         <div>
             <h1>Home</h1>
             <Contador />
+            <h2>Deu certo</h2>
         </div>
     )
 }
