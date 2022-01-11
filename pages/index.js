@@ -15,7 +15,7 @@ function Home(){
                     </div>
                     
                     <div class='petrus'>
-                        <h3>Petrus Felipe..................</h3>
+                        <h3>Petrus Felipe.......................</h3>
                         <h3>0 Buchudas</h3>
                     </div>
                     
