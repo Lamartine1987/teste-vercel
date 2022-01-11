@@ -11,7 +11,7 @@ function Home(){
                 <div class='div3'>
                     <div class='lama'>
                     <h3>Lamartine Cezar..................</h3>
-                    <h3>6 Buchudas</h3>
+                    <h3>5 Buchudas</h3>
                     </div>
                     
                     <div class='petrus'>
